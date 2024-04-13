@@ -1,0 +1,5 @@
+db_user = "DB_USER"
+db_password = "DB_PASSWORD"
+db_host = "qwrrftgtyuis"
+db_port = "3367"
+db_name = "classicmodels"
